@@ -1,13 +1,15 @@
 package Lesson6;
-//task score 100%
-//correctness 100%
-//performance 100%
-import java.util.Arrays;
 
 /**
  *
- * @author papan
+ * @author arispap78
+ * task score 100%
+ * correctness 100%
+ * performance 100%
  */
+
+import java.util.Arrays;
+
 public class MaxProductOfThree
 {
     public int solution(int[] A)

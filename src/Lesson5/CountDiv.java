@@ -1,12 +1,13 @@
 package Lesson5;
 
-//task score 100%
-//correctness 100%
-//performance 100%
 /**
  *
- * @author papan
+ * @author arispap78
+ * task score 100%
+ * correctness 100%
+ * performance 100%
  */
+
 public class CountDiv 
 {
     public int solution(int A, int B, int K)

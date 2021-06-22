@@ -1,11 +1,12 @@
 package Lesson3;
 
-import java.util.HashMap;
-
 /**
  *
- * @author papan
+ * @author arispap78
  */
+
+import java.util.HashMap;
+
 public class test2
 {
     public int solution(String S)

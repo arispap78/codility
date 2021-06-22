@@ -1,13 +1,16 @@
 package Lesson7;
-//task score 100%
-//correctness 100%
-//performance 100%
-import java.util.Stack;
+
 
 /**
  *
- * @author papan
+ * @author arispap78
+ * task score 100%
+ * correctness 100%
+ * performance 100%
  */
+
+import java.util.Stack;
+
 public class Fish 
 {
     public int solution(int[] A, int[] B)

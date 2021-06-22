@@ -1,12 +1,12 @@
 package Lesson4;
 
+/**
+ *
+ * @author arispap78
+ */
 
 import java.util.HashSet;
 
-/**
- *
- * @author papan
- */
 public class FrogRiverOne
 {
     public int solution(int X, int[] A)

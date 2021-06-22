@@ -1,13 +1,14 @@
 package Lesson7;
+/**
+ *
+ * @author arispap78
+ */
 
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-/**
- *
- * @author papan
- */
 public class Brackets
+        
 {
     public int solution(String S)
     {

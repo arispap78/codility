@@ -1,11 +1,12 @@
 package Lesson3;
 
-import java.util.Arrays;
-
 /**
  *
- * @author papan
+ * @author arispap78
  */
+
+import java.util.Arrays;
+
 public class test1 
 {
     public String solution(int A, int B, int C, int D, int E, int F)

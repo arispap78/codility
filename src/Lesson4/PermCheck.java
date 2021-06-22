@@ -1,13 +1,15 @@
 package Lesson4;
-//task score 100%
-//correctness 100%
-//performance 100%
-import java.util.HashSet;
 
 /**
  *
- * @author papan
+ * @author arispap78
+ * task score 100%
+ * correctness 100%
+ * performance 100%
  */
+
+import java.util.HashSet;
+
 public class PermCheck 
 {
     public int solution(int[] A)

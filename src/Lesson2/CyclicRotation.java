@@ -1,12 +1,12 @@
 package Lesson2;
 
-
-//task score 100%
-//correctness 100%
 /**
  *
- * @author papan
+ * @author arispap78
+ * task score 100%
+ * correctness 100%
  */
+
 public class CyclicRotation 
 {
     public int[] solution(int[] A, int K) 
