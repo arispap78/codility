@@ -7,6 +7,7 @@ package Lesson7;
  * task score 100%
  * correctness 100%
  * performance 100%
+ * Detected time complexity:O(N)
  */
 //<editor-fold>
 /**
@@ -82,4 +83,4 @@ public class Fish
         System.out.println(new Fish().solution(A,B));
     }
 }
-//Detected time complexity:O(N)
+

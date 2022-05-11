@@ -6,6 +6,7 @@ package Lesson6;
  * task score 100%
  * correctness 100%
  * performance 100%
+ * Detected time complexity:O(N * log(N))
  */
 //<editor-fold>
 /**
@@ -63,4 +64,4 @@ public class MaxProductOfThree
         System.out.println(new MaxProductOfThree().solution(A));
     }
 }
-//Detected time complexity:O(N * log(N))
+

@@ -51,6 +51,6 @@ public class BinaryGap
     }
     public static void main(String[] args) 
     {
-        System.out.println(new BinaryGap().solution(15));
+        System.out.println(new BinaryGap().solution(155));
     }  
 }
